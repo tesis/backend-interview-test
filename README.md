@@ -1,11 +1,5 @@
-# Recruitment Task 🧑‍💻👩‍💻
+# A Task 🧑‍💻👩‍💻
 
-### Notes
-
-- unfortunately I couldn't start the project as it is described, thus I managed it by myself (adding DB and run migrate/seed, thus DatabaseSeeder is modified)
-- InvoiceController is under presentation layer, but I think it should be in Api
-- Product model is under Products module, Company model under Companies Module (this was one of my vision about how to split modules, but I'm sure you might have different approach)
-- Even if I'm familiar with DDD design and I play around with it, I decieded not to use it in this task (as it is written is not mandatory). Reason: I'm more than sure that our approaches might differ too much, thus I skipped it
 
 ### Invoice module with approve and reject system as a part of a bigger enterprise system. Approval module exists and you should use it. It is Backend task, no Frontend is needed.
 ---
